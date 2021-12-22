@@ -37,6 +37,7 @@ const App = () => {
       ) 
     })}
     </table>
+
   )
 }
 
@@ -50,3 +51,4 @@ ReactDOM.render(
 );
 console.timeEnd()
 
+  
